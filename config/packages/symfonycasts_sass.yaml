@@ -1,0 +1,3 @@
+symfonycasts_sass:
+    root_sass:
+        - 'public/bundles/templatelayout/styles/templatelayout.scss'

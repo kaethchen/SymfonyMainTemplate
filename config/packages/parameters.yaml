@@ -1,0 +1,5 @@
+parameters:
+    domain: 'template.xyz'
+    locales: 'de|en|fr|lb'
+    locales_array: ['de', 'en', 'fr', 'lb']
+    locales_default: 'en'

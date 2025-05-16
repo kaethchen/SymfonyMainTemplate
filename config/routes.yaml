@@ -1,0 +1,9 @@
+home:
+    resource: "@TemplateHomeBundle/config/routes.yaml"
+    host: '%domain%'
+
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: Template\Controller
+    type: attribute
